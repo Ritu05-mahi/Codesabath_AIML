@@ -1,4 +1,4 @@
-# Skin Cancer Detection Backend (Express)
+# Skin Cancer Detection Frontend
 
 Steps to run server
 
@@ -10,11 +10,12 @@ npm install
 
 2. Run Server
 ```
-npm start
+npm run dev
 ```
+
 
 ## Tech Stack Used
 
-- Node.js
-- Express.js
-- MongoDB
+- Javascript
+- React
+- TailwindCSS
